@@ -7,7 +7,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-import minitorch
+from venv import minitorch
 
 
 def render_train_interface(

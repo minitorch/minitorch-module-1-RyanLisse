@@ -1,6 +1,6 @@
 import torch
 
-import minitorch
+from venv import minitorch
 
 
 def default_log_fn(epoch, total_loss, correct, losses):

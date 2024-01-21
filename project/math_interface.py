@@ -4,8 +4,8 @@ import plotly.graph_objects as go
 import streamlit as st
 from interface.streamlit_utils import render_function
 
-import minitorch
-from minitorch import MathTest, MathTestVariable
+from venv import minitorch
+from venv.minitorch import MathTest, MathTestVariable
 
 MyModule = None
 minitorch
