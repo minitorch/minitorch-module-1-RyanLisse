@@ -6,7 +6,7 @@ Be sure you have the extra requirements installed.
 
 import networkx as nx
 
-import minitorch
+from venv import minitorch
 
 
 ## Create an autodiff expression here.

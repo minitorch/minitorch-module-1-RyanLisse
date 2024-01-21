@@ -2,7 +2,7 @@ import networkx as nx
 import streamlit as st
 from streamlit_ace import st_ace
 
-import minitorch
+from venv import minitorch
 
 MyModule = None
 minitorch

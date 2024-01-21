@@ -1,6 +1,6 @@
 import networkx as nx
 
-import minitorch
+from venv import minitorch
 
 
 def build_expression(code):
